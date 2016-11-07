@@ -2,7 +2,7 @@
 
 http://bill.dudney.net/roller/objc/entry/trackball_3d_transforms_made_easy
 
-![alt tag](https://www.dropbox.com/s/58dqiz99ljsoi6s/TrackBallExample.gif?dl=0)
+![alt tag](TrackBallExample.gif)
 
 ## Installation 
 
